@@ -9,9 +9,13 @@ The installation was performed on a Windows machine using Windows Command Prompt
 * Pip
 * Virtualenv
 ```
-    pip install virtualenv
+    > pip install virtualenv
 ```
 * [TensorFlow Models](https://github.com/tensorflow/models)
+```
+    > git submodule update --init --recursive
+```
+
 ### Install Requirements
 #### To install all requirements together:
 ```
@@ -32,9 +36,11 @@ Create a Virtualenv and activate venv
 ```
     > virtualenv venv
     > venv\Scripts\activate
-
-    To deactivate venv:
+```
+To Deactivate Virtualenv:
+```
     > deactivate
 ```
+
 ## Author
 [Raidel Hernandez](https://github.com/raidel123)
