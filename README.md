@@ -11,7 +11,7 @@ The installation was performed on a Windows machine using Windows Command Prompt
 ```
     pip install virtualenv
 ```
-* [TensorFlow Models] (https://github.com/tensorflow/models)
+* [TensorFlow Models](https://github.com/tensorflow/models)
 ### Install Requirements
 #### To install all requirements together:
 ```
@@ -37,4 +37,4 @@ Create a Virtualenv and activate venv
     > deactivate
 ```
 ## Author
-]Raidel Hernandez] (https://github.com/raidel123)
+]Raidel Hernandez](https://github.com/raidel123)
