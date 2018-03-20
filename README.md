@@ -42,5 +42,11 @@ To Deactivate Virtualenv:
     > deactivate
 ```
 
+## Extra Notes
+Using protoc inside of models/research (using bash)
+```
+    > ../../../Downloads/protoc-3.5.1-win32/bin/protoc.exe object_detection/protos/*.proto --python_out=.
+```
+
 ## Author
 [Raidel Hernandez](https://github.com/raidel123)
