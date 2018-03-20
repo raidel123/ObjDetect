@@ -28,7 +28,7 @@ Tensorflow
 
     OR
 
-    > python -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.12.0-py2-none-any.whl
+    > python -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.7.0rc0-py2-none-any.whl
 ```
 
 ## Run Program:
