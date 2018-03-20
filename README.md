@@ -37,4 +37,4 @@ Create a Virtualenv and activate venv
     > deactivate
 ```
 ## Author
-]Raidel Hernandez](https://github.com/raidel123)
+[Raidel Hernandez](https://github.com/raidel123)
